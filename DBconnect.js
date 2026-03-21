@@ -1,10 +1,16 @@
 import { connect } from "mongoose";
 
-async function connectDB(dbName) {
+async function connectDB() {
     try {
-        const uri = process.env.MONGO_URI || "mongodb://127.0.0.1:27017/";
-        await connect(`${uri}${dbName}`);
-        console.log(` MongoDB Connecté à la base : ${dbName}`);
+        
+        const uri = process.env.MONGO_URI; 
+        
+        if (!uri) {
+            throw new Error("La variable MONGO_URI est manquante dans l'environnement !");
+        }
+
+        await connect(uri);
+        console.log(" MongoDB Connecté avec succès !");
     } catch (error) {
         console.error(" Erreur de connexion MongoDB :", error.message);
         process.exit(1);
