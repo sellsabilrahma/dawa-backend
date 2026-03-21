@@ -7,7 +7,7 @@ import pharmacieRouter from "./pharmacieRouter.js";
 config();
 
 const app = express()
-const port = process.env.PORT || 4000
+const port = process.env.PORT || https://dawa-backend.onrender.com
 
 connectDB(process.env.DATABASE_NAME)
 
