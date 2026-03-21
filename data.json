@@ -1,0 +1,819 @@
+[
+  { 
+    "pharmacieName": "PH. TAMANI HAMID", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "TIZI OUZOU", 
+    "pharmacieadresse": "Zone sud, quartier A (à côté Slimana)", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. BELHADJ KAMEL", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "TIZI OUZOU", 
+    "pharmacieadresse": "Rue K. Ihaddadene", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. BOUDARENE Sadia", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "TIZI OUZOU", 
+    "pharmacieadresse": "lotissement AMEYOUD N.V", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. BELHOCINE Dalila", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "TIZI OUZOU", 
+    "pharmacieadresse": "BOUKHALFA", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. SADI Ouerdia", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "TIZI OUZOU", 
+    "pharmacieadresse": "OUED FALLI", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. GACEM Nabil", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "TIZI OUZOU", 
+    "pharmacieadresse": "SIKH OUME DDOUR", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. AIT ABDELMALEK Zakia", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "TIZI OUZOU", 
+    "pharmacieadresse": "TALA ATHMANE", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. BOUDJEMA Lyazid", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "TIZI OUZOU", 
+    "pharmacieadresse": "sortie Est de TO", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. BOUBEKRI Noura", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "TIZI OUZOU", 
+    "pharmacieadresse": "En face hotel ITTOURAR (routemenant vers azib ahmed)", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. MENGUELTI Lamia", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "TASSADORT", 
+    "pharmacieadresse": "TASSADORT)", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. LEFFAD Ghenima", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "REDJAOUNA", 
+    "pharmacieadresse": "SIDI BALOUA- REDJAOUNA)", 
+    "estdegarde": true 
+  },
+  { "pharmacieName": "PH. AIT-HAMMOU DEHBIA", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "AIN EL HAMMAM", 
+    "pharmacieadresse": "Centre ville", 
+    "estdegarde": true 
+  },
+  { "pharmacieName": "PH. CHERIFI ABD EL KRIM", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "ABI YOUCEF", 
+    "pharmacieadresse": "Abi Youcef", 
+    "estdegarde": true 
+  },
+  { "pharmacieName": "PH. CHALAH Nabila", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "AIT YAHIA", 
+    "pharmacieadresse": "Ait Yahia", 
+    "estdegarde": true 
+  },
+  { "pharmacieName": "PH. HAMROUN MOURAD", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "AKBIL", 
+    "pharmacieadresse": "", 
+    "estdegarde": true 
+  },
+  { "pharmacieName": "PH. SI-YOUCEF BAYA", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "IFERHOUNENE", 
+    "pharmacieadresse": "", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. KERROUCHE SALOUA", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "BOUZEGUENE", 
+    "pharmacieadresse": "Village Ait Ferraache", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. BESSAI Sonia", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "BOUZEGUENE", 
+    "pharmacieadresse": "Village Sahel", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. KADI Dihia", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "ILLILTEN", 
+    "pharmacieadresse": "Illilten", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. HABBAS Naima", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "IDJEUR", 
+    "pharmacieadresse": "Idjeur", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. HCHEKIR Fariza ", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "ILLOULA OUMALOU", 
+    "pharmacieadresse": "Illoula Oumalou", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. MIMOUN BELKACEM", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "TIGZIRT", 
+    "pharmacieadresse": "Cité 120 logts Bt J N° 2B", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. DEKKAR Zohra", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "TIGZIRT", 
+    "pharmacieadresse": "lotissement Ouest de Tigzirt", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. CHAIBI Aldjia", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "MIZRANA", 
+    "pharmacieadresse": "Mizrana", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. REKAS Abdelkader", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "IFLISSEN", 
+    "pharmacieadresse": "Agouni Moussi- Iflissen", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. CHETOUANE NASSIRA", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "MAKOUDA", 
+    "pharmacieadresse": "Tala Bouzrou", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. HAMBAREK Karima", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "MAKOUDA", 
+    "pharmacieadresse": "Vge Tazrart", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. IDIRI Lilia", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "BOUDJIMA", 
+    "pharmacieadresse": "Boudjima", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. GHEZLAOUI Samira", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "BOUDJIMA", 
+    "pharmacieadresse": "Boudjima", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. CHAOU MOHAMED", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "OUAGUENOUN", 
+    "pharmacieadresse": "Tikobaïne", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. HAMMOU Habib", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "OUAGUENOUN", 
+    "pharmacieadresse": "vge Azib Ouhaddad", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. CHAMI Chahrazad", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "OUAGUENOUN", 
+    "pharmacieadresse": "Tamda", 
+    "estdegarde": true 
+  },
+   { 
+    "pharmacieName": "PH. ZERKHEFAOUI Rachid", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "AIT AISSA MIMOUN", 
+    "pharmacieadresse": "Lefdhahi", 
+    "estdegarde": true 
+  },
+   { 
+    "pharmacieName": "PH. KHELIFA Lynda", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "AIT AISSA MIMOUN", 
+    "pharmacieadresse": "Village Tala Illilane", 
+    "estdegarde": true 
+  },
+   { 
+    "pharmacieName": "PH. SEKOUR Fari", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "TIMIZART", 
+    "pharmacieadresse": "Timizart", 
+    "estdegarde": true 
+  },
+   { 
+    "pharmacieName": "PH. HAMDAOUI Kahina", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "DRAA EL MIZAN", 
+    "pharmacieadresse": "Draa El Mizan", 
+    "estdegarde": true 
+  },
+   { 
+    "pharmacieName": "PH. AREZKI Yamina", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "AIN ZAOUIA", 
+    "pharmacieadresse": "Ain Zaouia", 
+    "estdegarde": true 
+  },
+   { 
+    "pharmacieName": "PH. BELKADA Zahia", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "AIN ZAOUIA", 
+    "pharmacieadresse": "vge Boumehni- Ain Zaouia", 
+    "estdegarde": true 
+  },
+   { 
+    "pharmacieName": "PH. ZERROUKI Hocine", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "AIT YAHIA MOUSSA", 
+    "pharmacieadresse": "Ait Yahia Moussa", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. GALLOUZE Lynda", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "FRIKAT", 
+    "pharmacieadresse": "Frikat", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. KAMOUR HAKIMA", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "DRAA BEN KHEDDA", 
+    "pharmacieadresse": "DBK Centre", 
+    "estdegarde": true 
+  },
+   { 
+    "pharmacieName": "PH. BELMILOUD Nesrine", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "DRAA BEN KHEDDA", 
+    "pharmacieadresse": "Ain Fassi-DBK", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. CHORFI Kenza", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "SIDI NAMANE", 
+    "pharmacieadresse": "Sidi Namane Centre", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. SMAÏL Ahmed", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "TIRMITINE", 
+    "pharmacieadresse": "Tirmitine", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. TAZEROUTI Samia", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "TADMAIT", 
+    "pharmacieadresse": "cité des martyrs, Tadmait", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. SERKHANE KAMEL", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "MEKLA", 
+    "pharmacieadresse": "Centre", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. MALEK Meriem", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "MEKLA", 
+    "pharmacieadresse": "Vge Chaib", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. BENAMARA Kahina", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "MEKLA", 
+    "pharmacieadresse": "Djemaa-Saharidj", 
+    "estdegarde": true 
+  },
+   { 
+    "pharmacieName": "PH. TEBBICHE Zohra", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "AIT KHELILI", 
+    "pharmacieadresse": "Ait Khelili", 
+    "estdegarde": true 
+  },
+   { 
+    "pharmacieName": "PH. GUERMOUCHE A/Krim", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "SOUAMAA", 
+    "pharmacieadresse": "Souamaa", 
+    "estdegarde": true 
+  },
+   { 
+    "pharmacieName": "PH. HAMMADOU Djamila", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "LARBAA NATH IRATHEN", 
+    "pharmacieadresse": "Larbaa-Nath-Irathen", 
+    "estdegarde": true 
+  },
+   { 
+    "pharmacieName": "PH. GUERMOUCHE Ghozali", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "LARBAA NATH IRATHEN", 
+    "pharmacieadresse": "Taourirt Mokrane-L.N.I", 
+    "estdegarde": true 
+  },
+   { 
+    "pharmacieName": "PH. HAMIDI Fadela", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "IRDJEN", 
+    "pharmacieadresse": "Tamazirt- Irdjen", 
+    "estdegarde": true 
+  },
+   { 
+    "pharmacieName": "PH. CHOUITEM Rachid", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "IRDJEN", 
+    "pharmacieadresse": "Alma Oued aissi- Irdjen", 
+    "estdegarde": true 
+  },
+   { 
+    "pharmacieName": "PH. HABAK Lamia", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "TIZI RACHED", 
+    "pharmacieadresse": "Tizi-Rached", 
+    "estdegarde": true 
+  },
+   { 
+    "pharmacieName": "PH. LECHANI Zina", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "TIZI RACHED", 
+    "pharmacieadresse": "Village Tala-Toulmouts- T.Rached", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. SADAOUI RACHID", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "AZAZGA", 
+    "pharmacieadresse": "Centre", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. BERKAT Zahia", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "AZAZGA", 
+    "pharmacieadresse": "cheurfa Bahloul-AZAZGA", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. AHRAS Mohand Ouelhadj", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "AZAZGA", 
+    "pharmacieadresse": "vge Ait Bouada,(Rabta)Azazga", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. AÏSSAT Fadhila", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "FREHA", 
+    "pharmacieadresse": "Fréha", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. IBSAIENE Said", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "FREHA", 
+    "pharmacieadresse": "TALA TEGANA", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. KHOUMERI Ouiza", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "YAKOUREN", 
+    "pharmacieadresse": "Yakouren", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. AIT-YOUCEF Mohamed", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "IFIGHA", 
+    "pharmacieadresse": "Ifigha", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. FEDDAL Tassadit", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "ZEKRI", 
+    "pharmacieadresse": "Zekri", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. YAMOUN Salah", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "BOGHNi", 
+    "pharmacieadresse": "BOGHNI", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. HAMEL Aomar", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "ASSI YOUCEF", 
+    "pharmacieadresse": "Assi-Youcef", 
+    "estdegarde": true 
+  },
+   { 
+    "pharmacieName": "PH. AMROUN Lilia", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "MECHTRAS", 
+    "pharmacieadresse": "Mechtras", 
+    "estdegarde": true 
+  },
+   { 
+    "pharmacieName": "PH. GUIROUS Dahbia", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "OUADHIAS", 
+    "pharmacieadresse": "Ouadhias", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. ATTOUI Karim", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "OUADHIAS", 
+    "pharmacieadresse": "Ouadhias", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. BERROUANE Samia", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "TIZI N’TLETA", 
+    "pharmacieadresse": "T-N-Tleta", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. ZIAD Djouher", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "AIT BOUADDOU", 
+    "pharmacieadresse": "Ait Bouaddou", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. ZERROUAK Mohamed", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "AGOUNI GUEGHRANE", 
+    "pharmacieadresse": "Agouni Gueghrane", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. KEBDI Tassadit", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "MAATKAS", 
+    "pharmacieadresse": "Souk-El-Khemis", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. KOUROUGHLI Nasser", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "MAATKAS", 
+    "pharmacieadresse": "Tizi Lilane Maatkas", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. ATTOUI Norredine", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "SOUK EL TENINE", 
+    "pharmacieadresse": "Souk-El-Tenine", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. BENI DOUALA", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "SOUK EL TENINE", 
+    "pharmacieadresse": "Beni Douala", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. ARRACHE Smina", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "AIT MAHMOUD", 
+    "pharmacieadresse": "Ait Mahmoud", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. BELMADI Nacim", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "BENI AISSI", 
+    "pharmacieadresse": "Beni-Aissi", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. MAINCER Said", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "BENI ZMENZER", 
+    "pharmacieadresse": "Ighil El Mal-Beni Zmenzer", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. BOUSSAMET Gamal", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "OUACIFS", 
+    "pharmacieadresse": "Ouacifs", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. KOUCEM Katia", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "BENI YENNI", 
+    "pharmacieadresse": "Beni-Yenni", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. DERBALI Ghani", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "TIZI GHENIFF", 
+    "pharmacieadresse": "", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. HAMEL Ferhat", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "M’KIRA", 
+    "pharmacieadresse": "Tala Azizant- M’Kira", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. AKNINE MOULOUD", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "AZEFFOUN", 
+    "pharmacieadresse": "Village Tifrest", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. TAKOUAT Louiza", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "AZEFFOUN", 
+    "pharmacieadresse": "Azeffoun", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. YASSA Zahoua", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "AGHRIBS", 
+    "pharmacieadresse": "Aghribs", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. CHAREF KHODJA Djamila", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "AGHRIBS", 
+    "pharmacieadresse": "Tamassift- aghribs", 
+    "estdegarde": true 
+  },
+  { 
+    "pharmacieName": "PH. MEHADDI Hakim", 
+    "pharmaciewilaya": "15", 
+    "pharmaciecommune": "AKERROU", 
+    "pharmacieadresse": "Tifrit centre- Akerrou", 
+    "estdegarde": true 
+  },
+
+{
+    "pharmacieName": "Pharmacie THOURAYA MSSAMEH",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "TAZOULT",
+    "pharmaciePhone": "033 32 22 19",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  },
+
+  {
+    "pharmacieName": "Pharmacie AYACH Messaoud",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "AIN DJASSER",
+    "pharmaciePhone": "033 33 50 15",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  },
+  {
+    "pharmacieName": "Pharmacie HOUFEF Fatiha",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "GOSBAT",
+    "pharmaciePhone": "033 38 30 08",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  },
+  {
+    "pharmacieName": "Pharmacie DAOUDI Chams Eddine",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "GUIGBA",
+    "pharmaciePhone": "033 36 01 23",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  },
+  {
+    "pharmacieName": "Pharmacie MENACEUR ep BOUBECHNA",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "TIMGAD",
+    "pharmaciePhone": "033 21 14 61/06 66 83 28 07",
+    "pharmacieMail":"Menaceurp@gmail.com",
+    "pharmacieadresse": "48 rue de Oued taga, Timgad, Batna",
+    "estdegarde": true
+  },
+  {
+    "pharmacieName": "Pharmacie BENTAYEB ABDELKARIM",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "EL MADHER",
+    "pharmaciePhone": "033 26 98 12",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  },
+  {
+    "pharmacieName": "Pharmacie Choufi Ilyes",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "ICHMOUL",
+    "pharmaciePhone": "033 34 91 13",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  },
+  {
+    "pharmacieName": "Pharmacie MEKAOUSSI HAYAT",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "OUED TAGA",
+    "pharmaciePhone": "033 20 18 43",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  },
+  {
+    "pharmacieName": "Pharmacie Difellah Safia",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "MENAA",
+    "pharmaciePhone": "033 21 26 21",
+    "pharmacieadresse": "Chelma Menaa",
+    "estdegarde": true
+  },
+  {
+    "pharmacieName": "Pharmacie BOUTLIKHET WALID",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "OUED EL MA",
+    "pharmaciePhone": "033 33 34 64",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  },
+  {
+    "pharmacieName": "Pharmacie ABBAS NAHIMA",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "SERIANA",
+    "pharmaciePhone": "033 26 51 14",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  },
+  {
+    "pharmacieName": "Pharmacie Bouzria Rabia Younes",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "OULED SELLAM",
+    "pharmaciePhone": "033 28 91 35",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  },
+  {
+    "pharmacieName": "Pharmacie Fadli Zoubida",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "ZANAT EL BEIDA",
+    "pharmaciePhone": "033 87 62 71",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  },
+  {
+    "pharmacieName": "Pharmacie Bouzria Yacine",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "SEFIANE",
+    "pharmaciePhone": "033 37 53 32",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  },
+  {
+    "pharmacieName": "Pharmacie Ben Mansour Djahad",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "OULED SI SLIMANE",
+    "pharmaciePhone": "033 37 34 33",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  },
+  {
+    "pharmacieName": "Pharmacie Abid Aya",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "OUED CHAABA",
+    "pharmaciePhone": "044 16 45 52",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  },
+  {
+    "pharmacieName": "Pharmacie Khmari Ammar",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "RAS EL AIOUN",
+    "pharmaciePhone": "033 37 02 59",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  },
+  {
+    "pharmacieName": "Pharmacie Berraj Hanane",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "OULED FADEL",
+    "pharmaciePhone": "033 29 91 90",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  },
+  {
+    "pharmacieName": "Pharmacie Boulain Chadia",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "T'KOUT",
+    "pharmaciePhone": "033 34 04 98",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  },
+  {
+    "pharmacieName": "Pharmacie Ben Sakriya",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "TENIET EL ABED",
+    "pharmaciePhone": "033 34 11 21",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  },
+
+  {
+    "pharmacieName": "HADAD LAHCENE",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "AIN TOUTA",
+    "pharmaciePhone": "033 35 73 47",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  },
+  {
+    "pharmacieName": "GUERFI HAFIZA",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "ARRIS",
+    "pharmaciePhone": "033 20 20 99",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  },
+  {
+    "pharmacieName": "ABED LAMIA",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "MEROUANA",
+    "pharmaciePhone": "033 40 06 43",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  },
+  {
+    "pharmacieName": "LEGHNANI DJALAL",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "N'GAOUS",
+    "pharmaciePhone": "033 37 60 35",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  },
+  {
+    "pharmacieName": "BEN YAHIA ABDELBASSET",
+    "pharmaciewilaya": "05",
+    "pharmaciecommune": "BARIKA",
+    "pharmaciePhone": "033 39 67 04",
+    "pharmacieadresse": "",
+    "estdegarde": true
+  }
+]
+
+
