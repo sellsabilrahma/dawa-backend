@@ -27,6 +27,8 @@ const pharmacieSchema = new Schema ({
     estdegarde: { type: Boolean, default: false}
 });
 
-const pharmacie = model("pharmacie", pharmacieSchema)
+const pharmacie = model("pharmacie", pharmacieSchema, "pharmacies");
+
+
 
 export default pharmacie;
