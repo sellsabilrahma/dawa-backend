@@ -1,8 +1,8 @@
 import express from "express";
 import cors from "cors";
 import { config } from "dotenv";
-import connectDB from "./config/DBconnect.js"
-import pharmacieRouter from "./Pharmacies/pharmacieRouter.js";
+import connectDB from ".DBconnect.js"
+import pharmacieRouter from ".pharmacieRouter.js";
 
 config();
 
