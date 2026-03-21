@@ -7,14 +7,15 @@ import pharmacieRouter from "./pharmacieRouter.js";
 config();
 
 const app = express();
+app.use(cors());
+app.use(express.json());
 
 const port = process.env.PORT || 3000;
 
-
 connectDB(process.env.MONGO_URI);
 
-app.use(express.json());
-app.use(cors());
+
+
 
 app.use("/api", pharmacieRouter);
 
