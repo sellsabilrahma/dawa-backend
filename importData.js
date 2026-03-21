@@ -1,7 +1,7 @@
 import mongoose from 'mongoose';
 import dotenv from 'dotenv';
 import fs from 'fs';
-import Pharmacie from './Pharmacies/Pharmacies.js'; 
+import Pharmacie from './Pharmacies.js'; 
 
 dotenv.config();
 
@@ -10,7 +10,7 @@ const importData = async () => {
         
         console.log("Tentative de connexion à MongoDB...");
         await mongoose.connect(process.env.MONGO_URI);
-        console.log("✅ Connexion réussie !");
+        console.log(" Connexion réussie !");
 
         
         const data = JSON.parse(fs.readFileSync('./data.json', 'utf-8'));
