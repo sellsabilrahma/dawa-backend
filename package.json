@@ -8,9 +8,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
+    "start": "node importData.js && node server.js"
     "server": "nodemon server.js"
-    "import": "node importData.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
